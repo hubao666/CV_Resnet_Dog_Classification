@@ -1,7 +1,7 @@
 # Dog Classification Using ResNet Transfer Learning
 ## To run the code:
 - Download the dataset from [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
-- Extract both Images and Annotations .tar files
+- Extract both Images and Annotations .tar files. Make sure files are under the current directory.
 - Place the extracted contents into directories (Images and Annotations)
 - Use the provided notebook to train and evaluate the model
 ## Topic
